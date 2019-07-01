@@ -1,7 +1,7 @@
 # py-ziojson
 python json serializer
 
-##Example
+## Example
 
 ```
 user = User(name='Tom', age=15, gender='man', friends=['Jerry', 'Rose'], pet=Pet('Dog'))
